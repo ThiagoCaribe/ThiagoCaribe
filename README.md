@@ -1,6 +1,4 @@
-### Hi there 👋
-
-###  Como Vai ?  me chamo  thiago 🗻
+###  Como Vai?  me chamo  thiago 🗻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-carib%C3%A9-296882197/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagocaribe01@gmail.com)
